@@ -1,0 +1,32 @@
+(() => {
+  // <stdin>
+  $(document).ready(() => {
+    $('[data-action="open-image"]').click((evt) => {
+      const target = $(`#${$(evt.currentTarget).data("target")}`);
+      target.removeClass("animate__fadeOut");
+      target.addClass("animate__fadeIn");
+      target.addClass("is-active");
+    });
+    $('[data-action="close-modal"]').click(() => {
+      closeModal();
+    });
+    $(".modal-background").click(() => {
+      closeModal();
+    });
+    $(document).keyup((evt) => {
+      if (evt.key === "Escape") {
+        closeModal();
+      }
+    });
+    $(".navbar-burger").click(function() {
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+    });
+  });
+  function closeModal() {
+    const modal = $(".modal.is-active");
+    modal.removeClass("animate__fadeIn");
+    modal.addClass("animate__fadeOut");
+    modal.removeClass("is-active");
+  }
+})();

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current Projects on Sandra Schönberger</title>
+    <link>https://sandraschoenberger.github.io/projects/current/</link>
+    <description>Recent content in Current Projects on Sandra Schönberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 14:51:42 +0200</lastBuildDate><atom:link href="https://sandraschoenberger.github.io/projects/current/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planquadrat</title>
+      <link>https://sandraschoenberger.github.io/projects/current/tre/</link>
+      <pubDate>Tue, 12 Jul 2022 19:46:45 +0200</pubDate>
+      
+      <guid>https://sandraschoenberger.github.io/projects/current/tre/</guid>
+      <description>Documentation and exhibition of a photography workshop in my 4th semester in cooperation with street photographer Margret Hoppe.
+During the 4th semester I got the opportunity to participate in a photography workshhop. The main goal was to show the beauty and diversity of the city of Münchberg. Every student was assigned a grid square of Münchberg randomly. We spent the whole day taking photos in these grid squares. Subsequently, all photography series were talked about and compiled.</description>
+    </item>
+    
+    <item>
+      <title>Glaubenssache</title>
+      <link>https://sandraschoenberger.github.io/projects/current/due/</link>
+      <pubDate>Tue, 12 Jul 2022 19:46:40 +0200</pubDate>
+      
+      <guid>https://sandraschoenberger.github.io/projects/current/due/</guid>
+      <description>Our main focus during the 4th semester was to work with the city of Münchberg and the people living there. As a part of this project, I created a city map on the subject of the diversity of religion in Münchberg.
+I mainly worked with photography and illustration. To show the variety of beliefs, I added interviews with inhabitants of Münchberg. I especialliy wanted to include personal stories and experiences to make my project more relatable and understandable.</description>
+    </item>
+    
+  </channel>
+</rss>
